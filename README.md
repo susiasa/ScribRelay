@@ -1,4 +1,3 @@
-<!-- fallback_ScribRelay_20260203005516_63892 -->
 
 # ScribRelay: Unlocking Real-Time Content Routing with Dynamic Caching, fueled by AI-Driven Policies, Pulse Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
